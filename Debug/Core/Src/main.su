@@ -1,0 +1,14 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:93:5:_write	32	static
+main.c:107:5:main	24	static
+main.c:251:6:SystemClock_Config	128	static
+main.c:296:13:MX_SPI1_Init	8	static
+main.c:336:13:MX_USART2_UART_Init	8	static
+main.c:369:13:MX_DMA_Init	16	static
+main.c:387:13:MX_GPIO_Init	48	static
+main.c:419:6:HAL_SPI_TxCpltCallback	16	static
+main.c:433:6:GYRO_READ_ANGLE_III	48	static
+main.c:481:6:LED_ON_III	48	static
+main.c:491:6:LEDS_OFF_III	40	static
+main.c:499:7:ABS	16	static
+main.c:508:6:Error_Handler	4	static
